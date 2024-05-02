@@ -1,0 +1,620 @@
+{
+  "success": 1,
+  "results": [
+    {
+      "sport_id": "1",
+      "data": [
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490899600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigerias Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490745600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490859600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490899900",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sport_id": "18",
+      "data": [
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1491700000",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sport_id": "17",
+      "data": [
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "game_data": {
+            "id": "63615848",
+            "time": "1490799600",
+            "time_status": "0",
+            "league": {
+              "id": "678",
+              "name": "Nigeria Premier League"
+            },
+            "home": {
+              "id": "50019",
+              "name": "Sunshine Stars FC"
+            },
+            "away": {
+              "id": "74754",
+              "name": "Katsina Utd"
+            },
+            "ss": null
+          },
+          "odd_data": {
+            "FI": "92410137",
+            "event_id": "2653722",
+            "main": {
+              "updated_at": "1599124797",
+              "sp": {
+                "full_time_result": {
+                  "id": "40",
+                  "name": "Full Time Result",
+                  "odds": [
+                    {
+                      "id": "962056610",
+                      "odds": "5.50",
+                      "name": "1"
+                    },
+                    {
+                      "id": "962056617",
+                      "odds": "4.20",
+                      "name": "Draw"
+                    },
+                    {
+                      "id": "962056618",
+                      "odds": "1.55",
+                      "name": "2"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

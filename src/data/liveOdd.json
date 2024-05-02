@@ -1,0 +1,208 @@
+{
+  "success": 1,
+  "results": [
+    {
+      "sport_id": "1",
+      "data": [
+        {
+          "game_data": {
+            "id": "4144993",
+            "sport_id": "1",
+            "time": "1633180863",
+            "time_status": "1",
+            "league": {
+              "id": "21866",
+              "name": "Netherlands Reserve League",
+              "cc": "nl"
+            },
+            "home": {
+              "id": "44582",
+              "name": "Heracles Reserves",
+              "image_id": "46166",
+              "cc": "nl"
+            },
+            "away": {
+              "id": "44593",
+              "name": "ADO Den Haag Reserves",
+              "image_id": "802510",
+              "cc": "nl"
+            },
+            "ss": "0-0",
+            "scores": {
+              "2": {
+                "home": "0",
+                "away": "0"
+              },
+              "1": {
+                "home": "0",
+                "away": "0"
+              }
+            },
+            "bet365_id": "108799288",
+            "timer": {
+              "tm": 90,
+              "ts": 0,
+              "tt": "0",
+              "ta": 0,
+              "md": 1
+            }
+          },
+          "odd_data": {
+            "id": "28527321",
+            "home_od": "1.220",
+            "draw_od": "6.500",
+            "away_od": "11.000",
+            "ss": null,
+            "time_str": null,
+            "add_time": "1545059458"
+          }
+        },
+        {
+          "game_data": {
+            "id": "4140581",
+            "sport_id": "1",
+            "time": "1633179600",
+            "time_status": "1",
+            "league": {
+              "id": "825",
+              "name": "Tunisia League 1",
+              "cc": "tn"
+            },
+            "home": {
+              "id": "47374",
+              "name": "JS Kairouanaise",
+              "image_id": "59632",
+              "cc": "tn"
+            },
+            "away": {
+              "id": "71185",
+              "name": "Club Olympique Medenine",
+              "image_id": "294214",
+              "cc": "tn"
+            },
+            "ss": "1-1",
+            "scores": {
+              "2": {
+                "home": "1",
+                "away": "1"
+              },
+              "1": {
+                "home": "1",
+                "away": "1"
+              }
+            },
+            "bet365_id": "108742033",
+            "timer": {
+              "tm": 54,
+              "ts": 14,
+              "tt": "1",
+              "ta": 0,
+              "md": 1
+            }
+          },
+          "odd_data": {
+            "id": "28527321",
+            "home_od": "1.220",
+            "draw_od": "6.500",
+            "away_od": "11.000",
+            "ss": null,
+            "time_str": null,
+            "add_time": "1545059458"
+          }
+        },
+        {
+          "game_data": {
+            "id": "4065692",
+            "sport_id": "1",
+            "time": "1633187400",
+            "time_status": "1",
+            "league": {
+              "id": "212",
+              "name": "Argentina Primera B Metropolitana",
+              "cc": "ar"
+            },
+            "home": {
+              "id": "1250",
+              "name": "CA San Miguel",
+              "image_id": "373076",
+              "cc": "ar"
+            },
+            "away": {
+              "id": "6389",
+              "name": "CA Colegiales",
+              "image_id": "463347",
+              "cc": "ar"
+            },
+            "ss": "0-0",
+            "scores": {
+              "2": {
+                "home": "0",
+                "away": "0"
+              }
+            },
+            "bet365_id": "108700682",
+            "timer": {
+              "tm": 2,
+              "ts": 42,
+              "tt": "1",
+              "ta": 0,
+              "md": 0
+            }
+          },
+          "odd_data": {
+            "id": "28527321",
+            "home_od": "1.220",
+            "draw_od": "6.500",
+            "away_od": "11.000",
+            "ss": null,
+            "time_str": null,
+            "add_time": "1545059458"
+          }
+        },
+        {
+          "game_data": {
+            "id": "4127889",
+            "sport_id": "1",
+            "time": "1633187700",
+            "time_status": "1",
+            "league": {
+              "id": "860",
+              "name": "Azerbaijan Premier League",
+              "cc": "az"
+            },
+            "home": {
+              "id": "45762",
+              "name": "Sabail FC",
+              "image_id": "281393",
+              "cc": "az"
+            },
+            "away": {
+              "id": "22713",
+              "name": "Neftchi Baku",
+              "image_id": "5215",
+              "cc": "az"
+            },
+            "ss": null,
+            "bet365_id": "108670181",
+            "timer": {
+              "tm": 0,
+              "ts": 0,
+              "tt": "0",
+              "ta": 0,
+              "md": 0
+            }
+          },
+          "odd_data": {
+            "id": "28527321",
+            "home_od": "1.220",
+            "draw_od": "6.500",
+            "away_od": "11.000",
+            "ss": null,
+            "time_str": null,
+            "add_time": "1545059458"
+          }
+        }
+      ]
+    }
+  ]
+}
